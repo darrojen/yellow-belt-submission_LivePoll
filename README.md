@@ -291,7 +291,7 @@ StellarWalletsKit provides a multi-wallet selection experience supporting:
 - xBull
 - Albedo
 - Rabet
-- WalletConnect
+- etc.
 
 ![Wallet Options](./screenshots/wallet-options.jpg)
 
