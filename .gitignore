@@ -9,3 +9,4 @@ npm-debug.log*
 target/
 contracts/**/target/
 *.wasm
+tsconfig.tsbuildinfo
